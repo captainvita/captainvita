@@ -2,7 +2,7 @@
 
 ### A lifelong learner & tech enthusiast from Germany.
 
-📚 **Currently learning:** ***TypeScript*** and ***Svelte***, and related tools for modern SPAs & PWAs. I am also learning and using AI tools, but strictly to teach and explain concepts and not to generate code.
+📚 **Currently learning:** ***TypeScript***, ***Svelte***, ***Vite***, ***Vitest*** and ***Bun***, and related tools for modern SPAs & PWAs. I am also learning and using AI tools, but strictly to teach and explain concepts and not to generate code.
 
 🛠️ **Currently working on:** Some tiny projects for learning purposes as well as building my ***personal website*** with a modern web stack.
 
